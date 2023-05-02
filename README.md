@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ya0cjwmc6cuh9f61?svg=true)](https://ci.appveyor.com/project/OlgaMedeiros/postmanecho-oqi9k)
+[![Build status](https://ci.appveyor.com/api/projects/status/jg56n890ob23ykhy?svg=true)](https://ci.appveyor.com/project/OlgaMedeiros/postmanecho-9c9ic)
+
